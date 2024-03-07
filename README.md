@@ -30,21 +30,21 @@ The analysis utilizes the Motor Vehicle Collisions - Crashes dataset, containing
 - Statsmodels
 
 ## Next Steps 
-- Interactive visualization with Tableau (In progess)
+- Interactive visualization with Tableau **(In progess)**
 - Disseminate findings through presentations, reports, and awareness campaigns to promote informed decision-making in road safety initiatives.
 
 ## Contributing:
 - Contributions and feedback are welcome! Please feel free to submit pull requests or raise issues if you have any suggestions for improvement.
 
 ## Additional Notes
-- [!IMPORTANT]
-- In case of sensitive bugs like security vulnerabilities, please contact <br />
+> [!IMPORTANT]
+> - In case of sensitive bugs like security vulnerabilities, please contact <br />
     datavizwithfer@gmail.com directly instead of using issue tracker. <br />
     We value your effort to improve the security and privacy of this project! <br />
 
 ## Acknowledgments:
 
-- We acknowledge the contributions of the Northeast Big Data Innovation Hub & National Student Data Corps for creating the space for intellectual work and providing support for this project.
+- I acknowledge the contributions of the Northeast Big Data Innovation Hub & National Student Data Corps for creating the space for intellectual work and providing support for this project.
 
 ## Contact:
 
